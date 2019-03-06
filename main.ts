@@ -13,7 +13,7 @@ namespace ckmakerBase {
         SPEED3 = 0
     };
 
-    const stepperAllSteps = 500;//2048;
+    const stepperAllSteps = 1024;//2048;
 
     let stepperCh0: DigitalPin;
     let stepperCh1: DigitalPin;
