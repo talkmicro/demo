@@ -10,7 +10,7 @@ namespace ckmakerBase {
         //% block="SPEED2"
         SPEED2 = 4,
         //% block="SPEED3"
-        SPEED3 = 1
+        SPEED3 = 0
     };
 
     const stepperAllSteps = 500;//2048;
